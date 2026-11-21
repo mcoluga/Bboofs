@@ -1,13 +1,33 @@
-- 👋 Hi, I’m @Bboofs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I'm Oluga.
 
-Funny bit is that I'm too lazy to edit this Readme into something perfect, but then again, here I am. If I were writing using a pen I would call it scribbling, that's the height I've reached.
+I'm a data scientist with a background in engineering and over a decade of experience in technology, primarily across telecommunications and fintech.
 
-I know you'll think I'm not serious, but this is my level of seriousness as far as regards this
-<!---
-Bboofs/Bboofs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My interests sit at the intersection of data, engineering and computing. I enjoy understanding how things work, solving practical problems, and occasionally building things simply to learn something new.
+
+### What I work with (now)
+
+- **Data & Analytics:** Python, SQL, statistics, machine learning
+- **Data Engineering:** Apache Spark, Kafka, Airflow, ETL
+- **Infrastructure & Tools:** Linux, Git, Docker, databases
+- **Visualisation:** Power BI, Qlik Sense, Plotly
+
+### What I've Worked with (before)
+- **Technical support:** Deploying, Upgrading and Keeping systems up: mobile money platforms, SMSCs, API gateways,
+- **Technical Project Management:** Coordinating technical support teams, developers, management, research & development and client
+
+
+### What's here
+
+A small collection of projects, experiments and tutorials covering topics I'm interested in or have been exploring.
+
+Some are practical exercises; others are simply attempts to understand a concept by building something around it.
+
+### Beyond the terminal
+
+Outside work, I'm interested in electronics, audio, DIY projects, networking and generally figuring out how things work.
+
+I also enjoy a good technical rabbit hole.
+
+---
+
+Visit my [Personal website](https://loogs.dev/cv/)
